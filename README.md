@@ -1,2 +1,3 @@
-# minesweeper-on-esp32s
-A touch screen on ILI9341 will also be used.
+# minesweeper-on-esp32s/in Russian
+Также будет использоваться сенсорный дисплей на ILI9341. Соединять всё будем dupont проводами.
+Итак вот схема подключения:
