@@ -3,3 +3,4 @@
 ![photo_5465171654976671512_y](https://github.com/user-attachments/assets/cb27809f-9eb3-448d-88d5-7290d71e6a7e)
 ![photo_5465171654976671513_y](https://github.com/user-attachments/assets/22d66409-4968-43be-9b72-e4aebaad8d0b)
 ![photo_5465171654976671511_y](https://github.com/user-attachments/assets/a3e21634-4dae-4e61-a37e-a6d37439f706)
+Соединяем всё по схеме:<img width="800" height="1280" alt="подключение" src="https://github.com/user-attachments/assets/5066cc2b-6e4d-436b-99b6-b2d0899aab17" />
